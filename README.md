@@ -1,23 +1,25 @@
 <h1 align="center">Hi 👋, I'm Jack Doyle</h1>
 <h3 align="center">I'm a data analyst & all around tech enthusiast / programmer</h3>
 
-- 🔭 I’m currently working on [NodeJS applications](https://github.com/JackDoyleIRE/node3-weather-app)
+- 🔭 I’m currently working on [NodeJS Apps](https://github.com/JackDoyleIRE/node-chat-app) and [Data Engineering Projects with Python](https://github.com/JackDoyleIRE/cali-weather)
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS** and **React**
 
-- 👯 I’m looking to collaborate on **Python & Data Engineering**
+- 👯 I’m looking to collaborate on **Python & Data Engineering** or any projects using **Large language Models**
 
 - 🤝 I’m looking for help with **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [jd.data.portoflio.com](jd.data.portoflio.com)
-
-- 📝 I regularly write articles on [medium](medium)
 
 - 💬 Ask me about **Python, Tableau, Javascript, SQL**
 
 - 📫 How to reach me **jack.doyle.environment@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jack-g-doyle/](https://www.linkedin.com/in/jack-g-doyle/)
+
+- 📷 I am a photography enthusiast, check out my on portiflio on [My Photography Website](https://jdoyle-photography.com/) 
+
+- 📝 I also sometimes post photograhy articles on [medium](https://medium.com/@j.doyle_31154/amsterdam-a-city-in-isolation-93f3032003ac)
 
 - ⚡ Fun fact **I have two viral cats! https://www.tiktok.com/@jerome_y_pablo**
 
