@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jack-g-doyle/](https://www.linkedin.com/in/jack-g-doyle/)
 
-- 📷 I am a photography enthusiast, check out my on portiflio on [My Photography Website](https://jdoyle-photography.com/) 
+- 📷 I am a photography enthusiast, check out my on portfolio on [my Photography Website](https://jdoyle-photography.com/) 
 
 - 📝 I also sometimes post photograhy articles on [medium](https://medium.com/@j.doyle_31154/amsterdam-a-city-in-isolation-93f3032003ac)
 
