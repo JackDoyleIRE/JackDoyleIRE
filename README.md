@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Doyle</h1>
-<h3 align="center">I'm a data analytics professional and passionate tech enthusiast</h3>
+<h3 align="center">I'm a data engineer and passionate tech enthusiast</h3>
 
 - 🔭 I’m currently working on [NodeJS Apps](https://github.com/JackDoyleIRE/node-chat-app) and [Data Engineering Projects with Python](https://github.com/JackDoyleIRE/cali-weather)
 
