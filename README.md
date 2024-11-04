@@ -11,7 +11,7 @@
 
 - 👨‍💻 More details on all of my projects will soon be available at [jd.data.portoflio.com](jd.data.portoflio.com) (under_construction)
 
-- 💬 Ask me about **Python, Tableau, Javascript, SQ, Gooogle Could Platform**
+- 💬 Ask me about **Python, Tableau, Javascript, SQL, Gooogle Could Platform**
 
 - 📫 How to reach me **jack.doyle.environment@gmail.com**
 
